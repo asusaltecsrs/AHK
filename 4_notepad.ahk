@@ -1,0 +1,3 @@
+!a::
+    Run, Notepad
+Return
